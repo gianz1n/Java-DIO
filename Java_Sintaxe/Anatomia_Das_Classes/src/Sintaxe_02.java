@@ -9,6 +9,5 @@ public class Sintaxe_02 {
 
     public static String nomeCompleto (String primeiroNome, String segundoNome) {
         return "Resultado do método: " + primeiroNome.concat(" ").concat(segundoNome);
-}
-
-}
+    }
+} 
