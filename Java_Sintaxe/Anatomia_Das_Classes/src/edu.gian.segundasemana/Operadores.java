@@ -10,6 +10,7 @@ public class Operadores {
 
         //Concatenação
         String nomeCompleto = "Gian" + " Emanuel";
-        System.out.print(nomeCompleto);
+        System.out.print(nomeCompleto); 
+
     }
 }
