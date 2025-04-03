@@ -2,7 +2,7 @@
 public class Tipos_e_Variaveis {
     public static void main(String[] args) {
 
-        // Variáveis
+        // Variáveis e tipagens
         byte idade = 123;
         short ano = 2004;
         int cep = 37550000; //se começar com 0 deverá ter outra tipagem
@@ -13,6 +13,7 @@ public class Tipos_e_Variaveis {
         // Constantes
         final double VALOR_PI = 3.14; //Esse valor não poderá ser alterado
 
+    System.out.print("O valor de PI é: "); 
         System.out.print(VALOR_PI);
     }
     

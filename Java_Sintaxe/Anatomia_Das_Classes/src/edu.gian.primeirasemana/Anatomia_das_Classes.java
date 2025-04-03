@@ -1,4 +1,4 @@
-public class Sintaxe{
+public class Anatomia_das_Classes{
     public static void main(String[] args) {
 
         //Hello, world!
