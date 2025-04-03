@@ -1,14 +1,14 @@
-
 public class Sintaxe_02 {
     public static void main(String[] args) {
-        String primeiroNome = "Gian";
-        String segundoNome = "Emanuel";
 
-        String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
-        System.out.print (nomeCompleto);
-    }
+    //Condicional
+    int mediaFinal = 10;
 
-    public static String nomeCompleto (String primeiroNome, String segundoNome) {
-        return "Resultado do método: " + primeiroNome.concat(" ").concat(segundoNome);
+    if (mediaFinal < 6)
+    System.out.println("REPROVADO!");
+        else if (mediaFinal == 6)
+        System.out.println("PROVA MINERVA!");
+            else 
+            System.out.println("APROVADO!");
     }
-} 
+    }
