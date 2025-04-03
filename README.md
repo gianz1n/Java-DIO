@@ -2,4 +2,6 @@
 
 ### Visto até o momento:
 
-* Declaração de métodos e variáveis
+* Declaração de métodos e variáveis 
+* Tipagem
+* Operadores aritméticos e Operadores unários
